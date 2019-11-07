@@ -1,0 +1,12 @@
+
+FOR UPDATING A PROJECT 
+  git add .
+  git commit -m "updatee "
+  git pull origin upgrade ("branch name")
+  
+  GUIDE TO INSTALLING RABBITMQ URL : http://coderjony.com/blogs/how-to-enable-rabbitmq-management-plugin-in-windows/
+  
+  
+  
+  
+  
